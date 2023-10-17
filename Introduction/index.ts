@@ -1,5 +1,5 @@
 /*
-TypeScript catches errors at compile time instead of runtime , which makes debugging easier and reduces the likelihoodd of bugs in production. 
+TypeScript catches errors at compile time instead of runtime , which makes debugging easier and reduces the likelihood of bugs in production. 
 */
 
 // var Value:number = 5;
@@ -44,3 +44,13 @@ TypeScript catches errors at compile time instead of runtime , which makes debug
 // ? The unkown type is a safe alternative to any because it still enforces type checking and type safety.
 
 // ? Variables of type unknown can hold values of any type, but you must perform type checks or type assertions before using them in specific ways.
+
+// * TYPE ANNOTATION
+
+// * TYPE INFERENCE
+
+// ? Type inference in TypeScript refers to the ability of the typeScript compiler to automatically determine and assign types to variables, expressions, and functions return values based on their usage and context in the code.
+
+// * ARRAY
+
+// ? In TypeScript, you can create and initialize arrays using various approaches.
